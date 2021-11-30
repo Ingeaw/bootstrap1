@@ -1,21 +1,26 @@
 .jumbotron{
+	
+	background-color:#e0f7ff;
 	padding-top: 70px;
-	background-color: #00cba9;
+	
 }
 
+
 #gallery{
-	background-color: #00cba9;
+	background-color: #e0f7ff;
 }
 
 footer a{
 	text-decoration: none;
 	color: white;
 }
-
 footer{
 	padding-bottom: 20px;
 }
-
 section{
 	padding-top: 70px;
+}
+#about.row{
+	margin-bottom: 70px;
+
 }
